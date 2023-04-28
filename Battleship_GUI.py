@@ -15,6 +15,7 @@ def game_setup():
     info_frame.grid(row=0, column=1, padx=30, pady=50)
     info_frame.pack_propagate(False)
     start_root.mainloop()
+    info_frame_menu = tk.Menu(info_frame
 
 
 
